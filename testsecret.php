@@ -1,6 +1,6 @@
 strUser = Request.QueryString("U")
 strPwd = Request.QueryString("P")
-strName = Request.QueryString("No")
+strName = Request.QueryString("Not")
 key = "dggddd53533535355353"
 secret = "45544546664fhhhfhdhfhf5"
 
