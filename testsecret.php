@@ -1,3 +1,4 @@
+package import test;
 strUser = Request.QueryString("U")
 strPwd = Request.QueryString("P")
 strName = Request.QueryString("No")
